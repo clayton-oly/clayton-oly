@@ -40,18 +40,19 @@ I'm a **Full Stack Developer** passionate about technology, problem-solving, and
 ---
 
 ### 📊 GitHub Stats
-<table>
-  <tr>
-    <td>
-      <img height="140" src="https://github-readme-stats-sigma-five.vercel.app/api?username=clayton-oly&show_icons=true&include…
-    </td>
-    <td>
-      <img height="140" src="https://github-readme-streak-stats.herokuapp.com/?user=clayton-oly&hide_border=true&background=000…
-    </td>
-    <td>
-      <img height="125" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=clayton-oly&layout=compa…
-    </td>
-  </tr>
+<td>
+<img height="140" src="https://github-readme-stats-sigma-five.vercel.app/api?username=clayton-oly&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&v=1%22/>
+</td>
+ 
+<td>
+<img height="140" src="https://github-readme-streak-stats.herokuapp.com/?user=clayton-oly&hide_border=true&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=C9D1D9&currStreakNum=FFFFFF&longestStreakNum=FFFFFF&sideNums=FFFFFF&v=1%22/>
+</td>
+ 
+<td>
+<img height="125" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=clayton-oly&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9&v=1%22/>
+</td>
+ 
+</tr>
 </table><div align="left">
 ---
 
