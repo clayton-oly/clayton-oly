@@ -39,12 +39,20 @@ I'm a **Full Stack Developer** passionate about technology, problem-solving, and
 
 ---
 
-### 📊 GitHub Stats:
-<div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=clayton-oly&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clayton-oly&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
+### 📊 GitHub Stats
+<table>
+  <tr>
+    <td>
+      <img height="140" src="https://github-readme-stats-sigma-five.vercel.app/api?username=clayton-oly&show_icons=true&include…
+    </td>
+    <td>
+      <img height="140" src="https://github-readme-streak-stats.herokuapp.com/?user=clayton-oly&hide_border=true&background=000…
+    </td>
+    <td>
+      <img height="125" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=clayton-oly&layout=compa…
+    </td>
+  </tr>
+</table><div align="left">
 ---
 
 🔹 Always learning | 🔹 Passionate about coding | 🔹 Open to new challenges
