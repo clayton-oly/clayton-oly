@@ -40,6 +40,7 @@ I'm a **Full Stack Developer** passionate about technology, problem-solving, and
 ---
 
 ### 📊 GitHub Stats
+<table>
 <td>
 <img height="140" src="https://github-readme-stats-sigma-five.vercel.app/api?username=clayton-oly&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&v=1%22/>
 </td>
